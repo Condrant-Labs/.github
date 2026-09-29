@@ -1,0 +1,43 @@
+name: Guestbook
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency: guestbook
+
+jobs:
+  sign:
+    # startsWith is case-insensitive, so "Guestbook" works too
+    if: startsWith(github.event.issue.title, 'guestbook')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Add entry
+        env:
+          GB_USER: ${{ github.event.issue.user.login }}
+          GB_BODY: ${{ github.event.issue.body }}
+        run: python3 .github/scripts/guestbook.py
+
+      - name: Commit
+        env:
+          GB_USER: ${{ github.event.issue.user.login }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/README.md
+          git commit -m "guestbook: signed by @${GB_USER}" || exit 0
+          git push
+
+      - name: Thank and close
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NUM: ${{ github.event.issue.number }}
+        run: |
+          gh issue comment "$NUM" --repo "$GITHUB_REPOSITORY" --body "Thanks for signing the guestbook! You're on the wall now: https://github.com/${GITHUB_REPOSITORY_OWNER}"
+          gh issue close "$NUM" --repo "$GITHUB_REPOSITORY"
