@@ -72,6 +72,11 @@ flowchart LR
 
 <!-- TODO: add the other founders. Copy one <a> block and swap the GitHub username. -->
 <a href="https://github.com/ADITHYASNAIR2021"><img src="https://github.com/ADITHYASNAIR2021.png?size=160" width="80" alt="Adithya S Nair" /></a>
+<a href="https://github.com/Athulg19"><img src="https://github.com/Athulg19.png?size=160" width="80" alt="Athul Gireesh" /></a>
+<a href="https://github.com/sudi050"><img src="https://github.com/sudi050.png?size=160" width="80" alt="Sudhin" /></a>
+<a href="https://github.com/dk14-git"><img src="https://github.com/dk14-git.png?size=160" width="80" alt="Dhanush Krishna" /></a>
+<a href="https://github.com/DRK-20"><img src="https://github.com/DRK-20.png?size=160" width="80" alt="Dhruv R Krishnan" /></a>
+<a href="https://github.com/Hari-Skr"><img src="https://github.com/Hari-Skr.png?size=160" width="80" alt="Hari Sankar" /></a>
 <!--
 <a href="https://github.com/USERNAME"><img src="https://github.com/USERNAME.png?size=160" width="80" alt="NAME" /></a>
 <a href="https://github.com/USERNAME"><img src="https://github.com/USERNAME.png?size=160" width="80" alt="NAME" /></a>
