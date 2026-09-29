@@ -1,29 +1,29 @@
 <!-- hi, view-source person 👀 you get it. -->
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="codrantlabs.exe, a Windows 95 style window with the codrantlabs wordmark in rainbow WordArt. Software shipped, not strategy left in slides." />
+<img src="https://raw.githubusercontent.com/Condrant-Labs/.github/main/assets/hero.svg" width="100%" alt="codrantlabs.exe, a Windows 95 style window with the codrantlabs wordmark in rainbow WordArt. Software shipped, not strategy left in slides." />
 
-<img src="assets/ticker.svg" width="100%" alt="LED ticker: welcome to codrantlabs. ai agents, rag systems, full-stack web, seo and geo, whatsapp and voice automation, fixed scope always, made in kerala." />
+<img src="https://raw.githubusercontent.com/Condrant-Labs/.github/main/assets/ticker.svg" width="100%" alt="LED ticker: welcome to codrantlabs. ai agents, rag systems, full-stack web, seo and geo, whatsapp and voice automation, fixed scope always, made in kerala." />
 
 <br/>
 
 <sub>🖱️ double-click an icon (a single click works too, it's 2026)</sub>
 
-<a href="#the-jukebox"><img src="assets/icon-jukebox.svg" width="120" alt="jukebox" /></a>
-<a href="#how-it-works"><img src="assets/icon-howitworks.svg" width="120" alt="how it works" /></a>
-<a href="#the-crew"><img src="assets/icon-crew.svg" width="120" alt="the crew" /></a>
-<a href="#guestbook"><img src="assets/icon-guestbook.svg" width="120" alt="guestbook" /></a>
-<a href="#secret-files"><img src="assets/icon-secret.svg" width="120" alt="secret files" /></a>
-<a href="mailto:hello@YOUR-SITE.com"><img src="assets/icon-mail.svg" width="120" alt="mail us" /></a>
+<a href="#the-jukebox"><img src="https://raw.githubusercontent.com/Condrant-Labs/.github/main/assets/icon-jukebox.svg" width="120" alt="jukebox" /></a>
+<a href="#how-it-works"><img src="https://raw.githubusercontent.com/Condrant-Labs/.github/main/assets/icon-howitworks.svg" width="120" alt="how it works" /></a>
+<a href="#the-crew"><img src="https://raw.githubusercontent.com/Condrant-Labs/.github/main/assets/icon-crew.svg" width="120" alt="the crew" /></a>
+<a href="#guestbook"><img src="https://raw.githubusercontent.com/Condrant-Labs/.github/main/assets/icon-guestbook.svg" width="120" alt="guestbook" /></a>
+<a href="#secret-files"><img src="https://raw.githubusercontent.com/Condrant-Labs/.github/main/assets/icon-secret.svg" width="120" alt="secret files" /></a>
+<a href="mailto:admin@codrantlabs.in"><img src="https://raw.githubusercontent.com/Condrant-Labs/.github/main/assets/icon-mail.svg" width="120" alt="mail us" /></a>
 
 <br/><br/>
 
 **codrantlabs** is a founder-led product and AI engineering studio from Kerala.<br/>
 We build for service businesses, startups and enterprise teams that need software shipped.
 
-<!-- TODO: replace with your real links -->
-<a href="https://YOUR-SITE.com"><img src="https://img.shields.io/badge/visit_the_studio-ff7a2f?style=for-the-badge&logo=googlechrome&logoColor=1a0f2e&labelColor=ffc23d" alt="Website" /></a>
-<a href="mailto:hello@YOUR-SITE.com"><img src="https://img.shields.io/badge/start_a_project-ff4f8b?style=for-the-badge&logo=maildotru&logoColor=fff1dc&labelColor=1a0f2e" alt="Start a project" /></a>
+<!-- TODO: add your LinkedIn company page -->
+<a href="https://codrantlabs.in"><img src="https://img.shields.io/badge/visit_the_studio-ff7a2f?style=for-the-badge&logo=googlechrome&logoColor=1a0f2e&labelColor=ffc23d" alt="Website" /></a>
+<a href="mailto:admin@codrantlabs.in"><img src="https://img.shields.io/badge/start_a_project-ff4f8b?style=for-the-badge&logo=maildotru&logoColor=fff1dc&labelColor=1a0f2e" alt="Start a project" /></a>
 <a href="https://www.linkedin.com/company/YOUR-PAGE"><img src="https://img.shields.io/badge/linkedin-4be3c1?style=for-the-badge&logo=linkedin&logoColor=1a0f2e&labelColor=fff1dc" alt="LinkedIn" /></a>
 
 </div>
@@ -32,7 +32,7 @@ We build for service businesses, startups and enterprise teams that need softwar
 
 ### the jukebox
 
-<img src="assets/codrantamp.svg" width="100%" alt="codrantamp, a 90s media player. Playlist: 1 ai agents that do the actual work, 2 rag systems over your own data, 3 full-stack web platforms, 4 search visibility seo and geo, 5 whatsapp and voice automation. Every track length: fixed." />
+<img src="https://raw.githubusercontent.com/Condrant-Labs/.github/main/assets/codrantamp.svg" width="100%" alt="codrantamp, a 90s media player. Playlist: 1 ai agents that do the actual work, 2 rag systems over your own data, 3 full-stack web platforms, 4 search visibility seo and geo, 5 whatsapp and voice automation. Every track length: fixed." />
 
 <details>
 <summary><b>💿 read the liner notes</b> <sub>(click me)</sub></summary>
@@ -62,7 +62,7 @@ flowchart LR
 ```
 
 <div align="center">
-<a href="mailto:hello@YOUR-SITE.com"><img src="assets/dialog.svg" width="560" alt="Dialog box: This business is still doing it by hand. Automate it with codrantlabs? Let's talk." /></a>
+<a href="mailto:admin@codrantlabs.in"><img src="https://raw.githubusercontent.com/Condrant-Labs/.github/main/assets/dialog.svg" width="560" alt="Dialog box: This business is still doing it by hand. Automate it with codrantlabs? Let's talk." /></a>
 <br/><sub>☝️ yes, the button works</sub>
 </div>
 
@@ -82,7 +82,7 @@ flowchart LR
 
 ### guestbook
 
-<img src="assets/guestbook.svg" width="100%" alt="guestbook.txt in Notepad: leave a note, be nice, no links." />
+<img src="https://raw.githubusercontent.com/Condrant-Labs/.github/main/assets/guestbook.svg" width="100%" alt="guestbook.txt in Notepad: leave a note, be nice, no links." />
 
 <!-- GUESTBOOK:START -->
 
@@ -93,7 +93,7 @@ flowchart LR
 <!-- GUESTBOOK:END -->
 
 <div align="center">
-<a href="https://github.com/YOUR-ORG/.github/issues/new?title=guestbook&body=Write+your+message+below+%28one+line%2C+no+links%29%3A%0A%0A"><img src="assets/sign.svg" width="320" alt="Sign the guestbook" /></a>
+<a href="https://github.com/Condrant-Labs/.github/issues/new?title=guestbook&body=Write+your+message+below+%28one+line%2C+no+links%29%3A%0A%0A"><img src="https://raw.githubusercontent.com/Condrant-Labs/.github/main/assets/sign.svg" width="320" alt="Sign the guestbook" /></a>
 <br/><sub>opens a GitHub issue. hit submit and a bot adds you to the wall in about a minute.</sub>
 </div>
 
@@ -1908,23 +1908,23 @@ endsolid floppy
 
 <div align="center">
 
-<img src="assets/construction.svg" width="100%" alt="Under construction, like all good software." />
+<img src="https://raw.githubusercontent.com/Condrant-Labs/.github/main/assets/construction.svg" width="100%" alt="Under construction, like all good software." />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-ORG-org&label=you+are+visitor+no.&color=ff4f8b&style=for-the-badge" alt="visitor counter" />
+<img src="https://komarev.com/ghpvc/?username=Condrant-Labs-org&label=you+are+visitor+no.&color=ff4f8b&style=for-the-badge" alt="visitor counter" />
 
 <br/><br/>
 
-<a href="#secret-files"><img src="assets/btn-kerala.svg" width="132" alt="made in kerala" /></a>
-<a href="#the-jukebox"><img src="assets/btn-ai.svg" width="132" alt="powered by ai" /></a>
-<a href="#how-it-works"><img src="assets/btn-scope.svg" width="132" alt="fixed scope" /></a>
-<a href="mailto:hello@YOUR-SITE.com"><img src="assets/btn-slides.svg" width="132" alt="no slides" /></a>
-<a href="https://github.com/YOUR-ORG/.github/issues/new?title=guestbook&body=Write+your+message+below+%28one+line%2C+no+links%29%3A%0A%0A"><img src="assets/btn-guestbook.svg" width="132" alt="sign my guestbook" /></a>
-<a href="#"><img src="assets/btn-anyscreen.svg" width="132" alt="best viewed on any screen" /></a>
+<a href="#secret-files"><img src="https://raw.githubusercontent.com/Condrant-Labs/.github/main/assets/btn-kerala.svg" width="132" alt="made in kerala" /></a>
+<a href="#the-jukebox"><img src="https://raw.githubusercontent.com/Condrant-Labs/.github/main/assets/btn-ai.svg" width="132" alt="powered by ai" /></a>
+<a href="#how-it-works"><img src="https://raw.githubusercontent.com/Condrant-Labs/.github/main/assets/btn-scope.svg" width="132" alt="fixed scope" /></a>
+<a href="mailto:admin@codrantlabs.in"><img src="https://raw.githubusercontent.com/Condrant-Labs/.github/main/assets/btn-slides.svg" width="132" alt="no slides" /></a>
+<a href="https://github.com/Condrant-Labs/.github/issues/new?title=guestbook&body=Write+your+message+below+%28one+line%2C+no+links%29%3A%0A%0A"><img src="https://raw.githubusercontent.com/Condrant-Labs/.github/main/assets/btn-guestbook.svg" width="132" alt="sign my guestbook" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/Condrant-Labs/.github/main/assets/btn-anyscreen.svg" width="132" alt="best viewed on any screen" /></a>
 
 <br/><br/>
 
-<a href="#"><img src="assets/taskbar.svg" width="100%" alt="Taskbar: Start, codrantamp, guestbook.txt, hq.map. Tray: made in kerala, 4:20 PM." /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/Condrant-Labs/.github/main/assets/taskbar.svg" width="100%" alt="Taskbar: Start, codrantamp, guestbook.txt, hq.map. Tray: made in kerala, 4:20 PM." /></a>
 
 </div>
